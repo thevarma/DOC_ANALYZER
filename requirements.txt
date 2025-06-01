@@ -1,0 +1,8 @@
+nginx
+playwright
+langchain
+google-generativeai
+python-dotenv
+pydantic
+beautifulsoup4
+tqdm
